@@ -25,7 +25,7 @@ public class iQuestaoNove{
             }
         }
 
-        System.out.println("Representação binária: " + binario);
+        System.out.println("Representação binária: "+binario);
     }
 
   
