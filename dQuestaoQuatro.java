@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class questaoQuatro{
+public class dQuestaoQuatro{
   public static void main(String[] args){
     Scanner scanner = new Scanner(System.in);
 
